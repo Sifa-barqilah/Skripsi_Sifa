@@ -1,0 +1,617 @@
+no,tanggal_pesan,nama_pelanggan,jenis_produk,jumlah_pesanan,metode_pembayaran,harga_satuan,jumlah_bayar,no_telepon
+1,04/01/2026,Asep Hidayat,Buket snack,1,Cash,35.000,35.000,08486885348
+2,06/01/2026,Ujang Mulyadi,Buket snack,1,Cash,35.000,35.000,08692072903
+3,06/01/2026,Nana Suryana,Buket wisuda,1,Cash,45.000,45.000,08843535050
+4,07/01/2026,Dedi Kusdinar,DP Custom buket,1,Cash,60.000,60.000,08630256481
+5,09/01/2026,Wawan Hermawan,Buket bunga,1,Cash,55.000,55.000,08292541121
+6,13/01/2026,Yayah Rohayati,Buket snack,1,Cash,35.000,35.000,08722431000
+7,13/01/2026,Ujang Kurniawan,Buket snack,1,QRIS,35.000,35.000,08274415606
+8,13/01/2026,Asep Hidayat,Buket bunga,1,Cash,200.000,200.000,08583574688
+9,14/01/2026,Nana Rohana,Buket bunga,1,Cash,75.000,75.000,08903300349
+10,18/01/2026,Jajang Mulyana,Buket bunga,1,Cash,50.000,50.000,08814040324
+11,20/01/2026,Asep Hidayat,Buket snack,1,Cash,40.000,40.000,08314998620
+12,22/01/2026,Dadan Ramdani,Buket uang,3,Cash,50.000,150.000,08835712083
+13,24/01/2026,Cecep Hamdani,Buket uang,1,Cash,35.000,35.000,08967957456
+14,25/01/2026,Maman Suherman,Buket uang,1,Cash,65.000,65.000,08601009129
+15,25/01/2026,Neng Fitri,Buket uang,1,Cash,65.000,65.000,08214668039
+16,25/01/2026,Kokom Maryati,Paperbag,1,Cash,12.000,12.000,08775683306
+17,25/01/2026,Dedi Kusdinar,Buket snack,1,Cash,30.000,30.000,08519332402
+18,26/01/2026,Imas Kurniasih,Buket snack,1,Cash,35.000,35.000,08780413992
+19,28/01/2026,Encep Sutisna,Buket uang,1,Cash,85.000,85.000,08104077803
+20,28/01/2026,Jajang Subarna,Bunga jedai tangkai,1,Cash,15.000,15.000,08521445591
+21,02/02/2026,Maman Suherman,Buket snack,1,Cash,40.000,40.000,08477771919
+22,02/02/2026,Kokom Komalasari,Buket snack,1,Cash,35.000,35.000,08411884461
+23,05/02/2026,Neng Imas,DP Custom buket,1,Cash,50.000,50.000,08507449506
+24,06/02/2026,Dewi Yanti,Buket bunga,1,Cash,65.000,65.000,08961778105
+25,06/02/2026,Aceng Setiawan,Buket uang,1,Cash,125.000,125.000,08577914375
+26,06/02/2026,Deden Supriatna,Pelunasan custom buket,1,Cash,95.000,95.000,08614802441
+27,07/02/2026,Iwan Ridwan,Buket valentine,1,Cash,55.000,55.000,08997202527
+28,08/02/2026,Ujang Solihin,Buket bunga,1,Cash,90.000,90.000,08514417113
+29,08/02/2026,Rina Wati,Bloom box,2,Cash,50.000,100.000,08417818118
+30,08/02/2026,Rina Wati,Buket hijab,1,Transfer,90.000,90.000,08763899956
+31,08/02/2026,Eulis Cucu,Pelunasan custom buket,1,Cash,20.000,20.000,08581080940
+32,09/02/2026,Dadan Ramdani,Buket uang,1,Cash,50.000,50.000,08987999082
+33,10/02/2026,Hendra Gunawan,Buket valentine,1,Transfer,70.000,70.000,08856212934
+34,10/02/2026,Cucu Hasanudin,Buket bunga,1,Cash,55.000,55.000,08833356452
+35,12/02/2026,Cucu Hasanudin,DP Custom buket,1,Transfer,20.000,20.000,08240163998
+36,12/02/2026,Cucu Hasanudin,Buket valentine,1,Cash,95.000,95.000,08848742594
+37,12/02/2026,Neng Imas,Buket uang,1,Cash,50.000,50.000,08938419967
+38,12/02/2026,Agus Rahmat,Buket bunga,1,Cash,75.000,75.000,08941937641
+39,13/02/2026,Jajang Nurjaman,Buket valentine,1,Transfer,100.000,100.000,08942494698
+40,13/02/2026,Yayan Mulyana,DP Custom buket,1,Transfer,50.000,50.000,08909303645
+41,13/02/2026,Encep Sutisna,Buket uang + cokelat,1,Cash,90.000,90.000,08614395017
+42,13/02/2026,Deden Heryanto,Buket valentine,1,Cash,85.000,85.000,08107284293
+43,13/02/2026,Nyi Mariam,Buket bunga,1,Cash,70.000,70.000,08941533535
+44,14/02/2026,Hendra Gunawan,Buket valentine,1,Cash,40.000,40.000,08376867837
+45,14/02/2026,Rini Nuraeni,Buket valentine,1,Cash,100.000,100.000,08423385799
+46,14/02/2026,Hendra Gunawan,Buket valentine,1,Cash,90.000,90.000,08226150991
+47,14/02/2026,Asep Sunandar,Buket valentine,1,Cash,95.000,95.000,08831242378
+48,14/02/2026,Aceng Solihin,Buket bunga,2,QRIS,75.000,150.000,08320297231
+49,14/02/2026,Iis Rohimah,Buket bunga,1,QRIS,40.000,40.000,08858853477
+50,14/02/2026,Yayah Rokayah,Buket valentine,1,Cash,75.000,75.000,08359211202
+51,14/02/2026,Dewi Lestari,Buket mini,1,Cash,25.000,25.000,08270325749
+52,14/02/2026,Iis Rohimah,Buket bunga,2,Transfer,50.000,100.000,08342028007
+53,14/02/2026,Tati Hartati,Buket valentine,1,Transfer,85.000,85.000,08394594409
+54,14/02/2026,Iwan Ridwan,Buket bunga + cokelat,1,Cash,80.000,80.000,08613986410
+55,14/02/2026,Cucu Hasanudin,Buket valentine,1,Cash,75.000,75.000,08207004823
+56,14/02/2026,Encep Saepul,Pelunasan custom buket,1,Cash,125.000,125.000,08369419432
+57,14/02/2026,Agus Rahmat,Buket valentine,1,Cash,155.000,155.000,08948407554
+58,14/02/2026,Yudi Herdiana,Buket valentine,1,Cash,55.000,55.000,08987523287
+59,14/02/2026,Deden Heryanto,Pelunasan custom buket,1,Cash,50.000,50.000,08832671776
+60,14/02/2026,Imas Kurniasih,Buket valentine,1,Cash,75.000,75.000,08412383185
+61,14/02/2026,Dadang Sunarya,Buket valentine,1,Transfer,95.000,95.000,08683188940
+62,14/02/2026,Agus Permana,Buket valentine,1,Cash,80.000,80.000,08851634778
+63,14/02/2026,Yudi Yustiana,Buket snack,1,Cash,35.000,35.000,08167869981
+64,14/02/2026,Tati Sumiati,Buket valentine,1,Cash,40.000,40.000,08669376484
+65,14/02/2026,Yayah Rohayati,Paperbag + jedai,1,Cash,15.000,15.000,08796993916
+66,14/02/2026,Yayan Ruhiyat,Buket snack,1,Cash,40.000,40.000,08137836724
+67,14/02/2026,Jajang Subarna,Buket mini,1,Cash,25.000,25.000,08737268146
+68,14/02/2026,Agus Permana,Buket snack,1,Cash,55.000,55.000,08202220546
+69,15/02/2026,Dedi Mulyadi,Buket bunga,1,Cash,60.000,60.000,08733393909
+70,15/02/2026,Ujang Surahman,Buket bunga,1,QRIS,100.000,100.000,08706553541
+71,15/02/2026,Aceng Solihin,Buket valentine,1,Cash,75.000,75.000,08621644158
+72,15/02/2026,Asep Sunandar,Buket bunga + cokelat,1,QRIS,210.000,210.000,08641710890
+73,15/02/2026,Maman Abdurrahman,Buket valentine,1,Cash,95.000,95.000,08351363700
+74,15/02/2026,Gugun Gumilar,Buket bunga,1,Cash,75.000,75.000,08465732877
+75,15/02/2026,Eulis Mulyati,Buket valentine,1,QRIS,75.000,75.000,08884366909
+76,15/02/2026,Kokom Komalasari,Buket mini,1,QRIS,25.000,25.000,08630613825
+77,15/02/2026,Asep Sunandar,Buket valentine,1,Cash,75.000,75.000,08629971207
+78,18/02/2026,Cecep Karmana,Buket bunga,1,Cash,65.000,65.000,08437699952
+79,19/02/2026,Tatang Koswara,Buket uang,2,Transfer,35.000,70.000,08557462400
+80,19/02/2026,Eulis Mulyati,Buket uang,1,Transfer,50.000,50.000,08658398361
+81,19/02/2026,Cecep Hamdani,Buket uang + cokelat,1,QRIS,70.000,70.000,08847301316
+82,19/02/2026,Yayan Mulyana,Buket bunga + cokelat,1,QRIS,135.000,135.000,08859899852
+83,20/02/2026,Neng Imas,DP Custom buket,1,Transfer,30.000,30.000,08738072566
+84,20/02/2026,Tatang Hidayat,Buket bunga,1,QRIS,65.000,65.000,08592930667
+85,20/02/2026,Nana Suryana,Paperbag,1,Cash,5.000,5.000,08165330655
+86,20/02/2026,Cecep Supriadi,Paperbag,1,Cash,10.000,10.000,08445116053
+87,02/03/2026,Yudi Yustiana,Buket uang ,1,Cash,50.000,50.000,08189963508
+88,02/03/2026,Titin Suhartini,Buket bunga,1,Cash,75.000,75.000,08368363187
+89,02/03/2026,Dadang Hidayat,Paperbag,1,Cash,13.000,13.000,08872880639
+90,04/03/2026,Eulis Cucu,Buket bunga + cokelat,1,Cash,75.000,75.000,08819821183
+91,04/03/2026,Deden Supriatna,DP Custom buket,1,Transfer,20.000,20.000,08866711703
+92,06/03/2026,Yudi Wahyudi,Buket bunga,1,Transfer,75.000,75.000,08845578484
+93,06/03/2026,Nyi Mariam,Custom buket,1,Cash,65.000,65.000,08787310692
+94,07/03/2026,Wawan Setiawan,Pelunasan custom buket,1,Cash,70.000,70.000,08905506297
+95,08/03/2026,Encep Saepul,Buket uang ,1,Cash,35.000,35.000,08873295471
+96,12/03/2026,Iwan Setiawan,Buket uang ,1,QRIS,225.000,225.000,08821802385
+97,12/03/2026,Dadan Ramdani,Buket rokok,1,Cash,175.000,175.000,08292274195
+98,13/03/2026,Dadan Ramdani,Buket snack,1,Cash,55.000,55.000,08307152301
+99,30/03/2026,Jajang Nurjaman,Buket bunga,1,Cash,75.000,75.000,08161040483
+100,01/04/2026,Gugun Hendrayana,Paperbag,2,Cash,12.000,24.000,08229379571
+101,06/04/2026,Nyi Mariam,Pelunasan custom buket,1,Cash,65.000,65.000,08193644868
+102,09/04/2026,Jajang Mulyana,Buket bunga,1,Cash,90.000,90.000,08525447947
+103,10/04/2026,Iwan Ridwan,Buket uang + cokelat,1,Cash,70.000,70.000,08707216723
+104,10/04/2026,Lilis Sugiarti,DP Custom buket,1,Transfer,50.000,50.000,08130209176
+105,10/04/2026,Tati Hartati,Buket bunga,2,Transfer,95.000,190.000,08108630839
+106,11/04/2026,Agus Rahmat,Pelunasan custom buket,1,Cash,30.000,30.000,08614925332
+107,12/04/2026,Aceng Setiawan,Buket bunga,1,Cash,50.000,50.000,08165056211
+108,12/04/2026,Jajang Nurjaman,Buket bunga,1,Cash,95.000,95.000,08181965837
+109,13/04/2026,Yudi Herdiana,DP Custom buket,1,Cash,55.000,55.000,08164129791
+110,15/04/2026,Titin Suhartini,Buket uang,1,Cash,50.000,50.000,08968875476
+111,15/04/2026,Jajang Nurjaman,Buket bunga,1,Cash,50.000,50.000,08182559116
+112,15/04/2026,Deden Rukmana,DP Custom buket,1,Cash,30.000,30.000,08524986836
+113,15/04/2026,Kokom Komalasari,Pelunasan custom buket,1,QRIS,30.000,30.000,08969537768
+114,17/04/2026,Neng Imas,Buket bunga,1,Cash,60.000,60.000,08323722846
+115,18/04/2026,Dedi Mulyadi,Buket bunga,1,Cash,60.000,60.000,08379177992
+116,18/04/2026,Imas Masitoh,DP Custom buket,1,QRIS,20.000,20.000,08414583991
+117,18/04/2026,Agus Permana,Buket bunga,1,QRIS,75.000,75.000,08746510051
+118,18/04/2026,Tatang Koswara,Pelunasan custom buket,1,Cash,65.000,65.000,08340478896
+119,18/04/2026,Rini Nuraeni,Bunga jedai tangkai,5,Cash,15.000,75.000,08938317887
+120,19/04/2026,Iis Aisyah,Pelunasan custom buket,1,Cash,30.000,30.000,08802542958
+121,21/04/2026,Hendra Gunawan,Buket bunga,1,Cash,75.000,75.000,08543582355
+122,22/04/2026,Iis Dahlia,Buket wisuda,2,Cash,35.000,70.000,08438961373
+123,22/04/2026,Lilis Suryani,Custom buket,1,Cash,75.000,75.000,08120562591
+124,22/04/2026,Wawan Gunawan,Buket mini,1,Cash,25.000,25.000,08353701903
+125,24/04/2026,Deden Rukmana,Buket bunga,1,Cash,65.000,65.000,08937095819
+126,27/04/2026,Cecep Supriadi,Buket bunga,1,Cash,140.000,140.000,08731657393
+127,27/04/2026,Agus Permana,Buket bunga,1,Cash,65.000,65.000,08727634748
+128,27/04/2026,Yudi Wahyudi,Buket mini,1,Cash,25.000,25.000,08568755201
+129,27/04/2026,Asep Hidayat,Buket mini pot,1,Cash,40.000,40.000,08121529453
+130,27/04/2026,Titin Fatimah,Paperbag,1,Cash,10.000,10.000,08628424953
+131,27/04/2026,Iis Dahlia,Buket bunga,1,Cash,75.000,75.000,08250320864
+132,27/04/2026,Titin Suhartini,Buket bunga,1,Cash,75.000,75.000,08472806388
+133,27/04/2026,Lilis Sugiarti,Paperbag,1,Cash,5.000,5.000,08122128789
+134,27/04/2026,Deden Rukmana,Baju rajut,1,Cash,70.000,70.000,08160668259
+135,28/04/2026,Maman Rukmana,Buket uang,1,Cash,50.000,50.000,08514939051
+136,28/04/2026,Dadan Kusnandar,Custom buket,1,Cash,35.000,35.000,08620699100
+137,29/04/2026,Iwan Gunawan,Buket wisuda + cokelat,1,Cash,50.000,50.000,08420629817
+138,30/04/2026,Ujang Surahman,Buket mini pot,1,Cash,40.000,40.000,08204189780
+139,01/05/2026,Kokom Komariah,Buket uang,1,Transfer,85.000,85.000,08102400495
+140,01/05/2026,Wawan Gunawan,Buket wisuda,1,Transfer,35.000,35.000,08564783375
+141,01/05/2026,Gugun Gumilar,Pelunasan custom buket,1,Cash,215.000,215.000,08170912037
+142,01/05/2026,Gugun Hendrayana,Buket bunga,1,Cash,75.000,75.000,08663612133
+143,03/05/2026,Ujang Surahman,Buket wisuda,1,Cash,35.000,35.000,08251513407
+144,03/05/2026,Lilis Sugiarti,DP Buket wisuda,1,Cash,20.000,20.000,08228528201
+145,04/05/2026,Titin Suhartini,Pelunasan custom buket,1,Cash,25.000,25.000,08995575244
+146,04/05/2026,Deden Rukmana,DP Buket wisuda,1,Transfer,100.000,100.000,08618080182
+147,05/05/2026,Maman Abdurrahman,Buket bunga,1,Cash,35.000,35.000,08473900469
+148,05/05/2026,Dewi Yanti,Buket wisuda,1,Cash,35.000,35.000,08330270988
+149,05/05/2026,Nyi Mariam,DP Buket bunga,1,Transfer,30.000,30.000,08196719255
+150,06/05/2026,Aceng Fikri,Buket uang,1,Cash,35.000,35.000,08617894952
+151,06/05/2026,Yayah Rokayah,Buket wisuda,2,Cash,35.000,70.000,08601748668
+152,06/05/2026,Kokom Komalasari,Pelunasan custom buket,1,Cash,140.000,140.000,08405397619
+153,06/05/2026,Lilis Karlina,Pelunasan custom buket,1,Cash,20.000,20.000,08784616066
+154,06/05/2026,Imas Kurniasih,Buket wisuda,1,Cash,100.000,100.000,08164796751
+155,07/05/2026,Maman Suherman,Buket bunga,1,Cash,60.000,60.000,08361583235
+156,07/05/2026,Iwan Setiawan,Pelunasan custom buket,1,Cash,60.000,60.000,08682376164
+157,07/05/2026,Tati Sumiati,Pelunasan custom buket,1,Cash,75.000,75.000,08526499444
+158,07/05/2026,Ujang Kurniawan,DP Buket bunga,1,Cash,15.000,15.000,08804807470
+159,07/05/2026,Gugun Gunawan,DP Buket bunga,1,Transfer,30.000,30.000,08217354482
+160,07/05/2026,Encep Mulyana,Pelunasan custom buket,1,Cash,105.000,105.000,08878321378
+161,07/05/2026,Gugun Gumilar,DP Buket bunga,1,Transfer,30.000,30.000,08244356620
+162,08/05/2026,Dewi Sartika,Pelunasan custom buket,1,Cash,45.000,45.000,08611857230
+163,01/06/2025,Rina Marlina,Buket wisuda,3,Cash,105.000,315.000,08554349921
+164,02/06/2025,Maman Abdurrahman,Buket wisuda & gosend,1,Transfer,46.000,80.000,08793145330
+165,02/06/2025,Deden Rukmana,Buket wisuda,2,Cash,65.000,130.000,08245392159
+166,02/06/2025,Maman Abdurrahman,Custom wrapping buket snack,1,Cash,120.000,120.000,08842862737
+167,03/06/2025,Agus Rahmat,DP Custom buket bunga,1,Cash,20.000,20.000,08881790621
+168,03/06/2025,Gugun Gunawan,Pelunasan custom buket,1,Cash,15.000,15.000,08297854225
+169,03/06/2025,Rini Nuraeni,DP Custom buket bunga,1,Cash,40.000,40.000,08351744337
+170,04/06/2025,Iis Rohimah,Pelunasan custom buket,1,Cash,20.000,20.000,08700490845
+171,04/06/2025,Titin Suhartini,Bunga kawat tangkai,1,Cash,15.000,15.000,08416444318
+172,04/06/2025,Encep Mulyana,Buket snack,1,Cash,35.000,35.000,08532179939
+173,04/06/2025,Dadan Ramdani,Buket bunga,1,Cash,65.000,65.000,08807069231
+174,04/06/2025,Deden Supriatna,Buket bunga,1,Cash,55.000,55.000,08648532225
+175,04/06/2025,Dewi Sartika,Jepit jedai,1,Cash,3.000,3.000,08672184990
+176,05/06/2025,Neng Imas,Buket bunga,1,Cash,35.000,35.000,08449488494
+177,09/06/2025,Cecep Hamdani,Pelunasan custom buket,1,Cash,45.000,45.000,08276768071
+178,10/06/2025,Aceng Solihin,Buket wisuda,1,Cash,65.000,65.000,08286626480
+179,10/06/2025,Cecep Karmana,Buket bunga kawat,1,Cash,55.000,55.000,08521151239
+180,10/06/2025,Yayan Suryana,Bunga kawat tangkai,2,Cash,15.000,30.000,08172787397
+181,10/06/2025,Wawan Hermawan,Bunga jedai tangkai,2,Cash,15.000,30.000,08525918592
+182,11/06/2025,Maman Rukmana,Buket boneka,1,Cash,65.000,65.000,08206021376
+183,11/06/2025,Asep Sunandar,Buket wisuda,1,Cash,35.000,35.000,08511003827
+184,11/06/2025,Iis Aisyah,Alat-alat buket,1,Cash,20.000,20.000,08154656657
+185,11/06/2025,Rina Wati,Buket wisuda,1,Cash,40.000,40.000,08254381181
+186,11/06/2025,Dadan Ramdani,Custom Buket polaroid ,1,Cash,75.000,75.000,08416115551
+187,12/06/2025,Yayan Ruhiyat,Buket wisuda,1,Cash,65.000,65.000,08619754902
+188,12/06/2025,Eulis Ratna,Cokelat silverqueen,2,Cash,20.000,40.000,08266058005
+189,12/06/2025,Maman Abdurrahman,Paperbag kecil,2,Cash,5.000,10.000,08992085700
+190,12/06/2025,Dadan Suhendar,Buket boneka,3,Cash,40.000,120.000,08152724965
+191,12/06/2025,Aceng Setiawan,Buket bunga,3,Cash,35.000,105.000,08204739625
+192,12/06/2025,Encep Mulyana,Buket bumbu,1,Cash,35.000,35.000,08774230341
+193,12/06/2025,Gugun Gunawan,Bunga kawat tangkai,7,Cash,15.000,105.000,08209165270
+194,12/06/2025,Neng Imas,Buket wisuda,9,Cash,35.000,315.000,08153330226
+195,12/06/2025,Maman Abdurrahman,Buket kupu-kupu,1,Transfer,35.000,35.000,08655522938
+196,12/06/2025,Yayan Ruhiyat,Buket wisuda,1,Cash,600.000,600.000,08308258512
+197,13/06/2025,Eulis Mulyati,Buket wisuda,1,Cash,100.000,100.000,08775388264
+198,13/06/2025,Yayah Rohayati,Buket uang,1,Cash,175.000,175.000,08512003140
+199,13/06/2025,Asep Sunandar,DP Custom buket wisuda,1,Cash,20.000,20.000,08791882601
+200,14/06/2025,Rini Nuraeni,Buket wisuda,1,Cash,75.000,75.000,08452406225
+201,14/06/2025,Iwan Setiawan,DP Custom buket wisuda,1,Transfer,35.000,35.000,08211249869
+202,14/06/2025,Lilis Suryani,Buket snack,1,Transfer,120.000,120.000,08207277268
+203,14/06/2025,Tati Sumiati,Buket wisuda,1,Transfer,60.000,60.000,08157481635
+204,14/06/2025,Ujang Solihin,DP Custom buket wisuda,1,Transfer,50.000,50.000,08451933045
+205,14/06/2025,Ujang Surahman,Buket bunga,1,Cash,35.000,35.000,08609119949
+206,14/06/2025,Rina Wati,Buket bunga,1,Cash,35.000,35.000,08529918510
+207,14/06/2025,Eulis Salma,Buket wisuda,1,Transfer,35.000,35.000,08547441264
+208,15/06/2025,Kokom Komariah,Buket bunga,1,Cash,65.000,65.000,08363869404
+209,15/06/2025,Encep Saepul,Bunga kawat tangkai,1,Cash,10.000,10.000,08967003895
+210,15/06/2025,Aceng Jaelani,DP Custom buket wisuda,1,Cash,70.000,70.000,08224368608
+211,15/06/2025,Cecep Supriadi,Buket uang,1,Cash,50.000,50.000,08573748189
+212,15/06/2025,Tati Sumiati,Buket wisuda,1,Cash,65.000,65.000,08836101779
+213,15/06/2025,Gugun Gunawan,Bunga jedai tangkai,1,Cash,15.000,15.000,08369758481
+214,15/06/2025,Wawan Gunawan,DP Custom buket wisuda,1,Transfer,50.000,50.000,08997575171
+215,15/06/2025,Titin Supriatin,Buket wisuda,1,Cash,75.000,75.000,08116277501
+216,15/06/2025,Agus Hidayat,DP Custom buket,1,Cash,50.000,50.000,08552125237
+217,16/06/2025,Encep Mulyana,Buket wisuda,1,Cash,45.000,45.000,08973014555
+218,16/06/2025,Neng Siti,Buket wisuda,1,Cash,65.000,65.000,08241988968
+219,16/06/2025,Cecep Supriadi,Buket snack,1,Cash,35.000,35.000,08929185250
+220,16/06/2025,Tatang Koswara,Buket snack,1,Transfer,35.000,35.000,08535948301
+221,17/06/2025,Dadan Suhendar,Buket bunga,1,Cash,130.000,130.000,08793594129
+222,17/06/2025,Gugun Gunawan,Alat-alat buket,1,Cash,34.000,34.000,08765700051
+223,17/06/2025,Aceng Fikri,Buket wisuda,1,Cash,65.000,65.000,08972522254
+224,17/06/2025,Dadan Suhendar,Pelunasan custom buket,1,Transfer,75.000,75.000,08971889823
+225,17/06/2025,Eulis Salma,Pelunasan custom buket,1,Cash,40.000,40.000,08686869030
+226,17/06/2025,Neng Imas,DP Custom buket wisuda,1,Cash,20.000,20.000,08822001093
+227,17/06/2025,Ujang Kurniawan,Buket wisuda,1,Cash,70.000,70.000,08817143811
+228,17/06/2025,Aceng Jaelani,Buket bunga,1,Cash,35.000,35.000,08157386060
+229,17/06/2025,Eulis Salma,Buket bunga,1,Cash,55.000,55.000,08596293727
+230,17/06/2025,Hendra Gunawan,Bunga tangkai,10,Cash,13.000,130.000,08983107354
+231,17/06/2025,Iwan Setiawan,Buket wisuda,1,Cash,40.000,40.000,08527336874
+232,17/06/2025,Deden Supriatna,Pelunasan custom buket,1,Cash,90.000,90.000,08173430013
+233,17/06/2025,Deden Heryanto,Buket bunga,1,Cash,75.000,75.000,08893254991
+234,17/06/2025,Gugun Gumilar,Buket wisuda,1,Cash,65.000,65.000,08208329569
+235,17/06/2025,Neng Siti,Bunga kawat tangkai,2,Cash,15.000,30.000,08660059731
+236,17/06/2025,Encep Saepul,Bunga kawat tangkai,2,Cash,10.000,20.000,08626894491
+237,17/06/2025,Dadan Ramdani,Buket wisuda,1,Cash,35.000,35.000,08586416328
+238,17/06/2025,Neng Imas,Buket bunga,1,Cash,135.000,135.000,08215686791
+239,18/06/2025,Dedi Mulyadi,Buket wisuda,1,Cash,35.000,35.000,08932286233
+240,18/06/2025,Aceng Jaelani,Buket bunga,1,Cash,35.000,35.000,08491743420
+241,18/06/2025,Iis Aisyah,Bunga kawat tangkai,2,Cash,15.000,30.000,08668895165
+242,18/06/2025,Wawan Gunawan,Bunga kawat tangkai,1,Cash,10.000,10.000,08577763505
+243,18/06/2025,Iwan Setiawan,Alat-alat buket,1,Cash,29.000,29.000,08198669695
+244,18/06/2025,Jajang Subarna,Buket snack,2,Cash,35.000,70.000,08852015753
+245,18/06/2025,Yudi Yustiana,Buket snack,2,Cash,35.000,70.000,08488895829
+246,18/06/2025,Aceng Jaelani,Buket bunga,1,Cash,75.000,75.000,08727555843
+247,18/06/2025,Imas Masitoh,Buket bunga,1,Transfer,100.000,100.000,08250588970
+248,18/06/2025,Yayah Mulyanah,Buket bunga,1,Transfer,35.000,35.000,08928469386
+249,18/06/2025,Wawan Hermawan,Buket wisuda,1,Cash,65.000,65.000,08574831877
+250,18/06/2025,Yudi Wahyudi,Buket wisuda,1,Cash,35.000,35.000,08578118816
+251,18/06/2025,Rina Herlina,Buket wisuda,1,Cash,65.000,65.000,08894612132
+252,18/06/2025,Asep Mulyana,Pelunasan custom buket,1,Cash,30.000,30.000,08752902270
+253,18/06/2025,Dadang Hidayat,Buket bunga,1,Cash,130.000,130.000,08519506116
+254,18/06/2025,Tatang Koswara,Buket wisuda,1,Cash,65.000,65.000,08531017335
+255,18/06/2025,Dewi Yanti,Buket bunga ,1,Cash,75.000,75.000,08593510550
+256,18/06/2025,Dadan Suhendar,Buket bunga,1,Cash,35.000,35.000,08539420915
+257,18/06/2025,Wawan Gunawan,Buket bunga,1,Cash,55.000,55.000,08729576938
+258,18/06/2025,Nyi Mariam,Pelunasan custom buket,1,Cash,50.000,50.000,08172900856
+259,18/06/2025,Jajang Nurjaman,Pelunasan custom buket,1,Cash,45.000,45.000,08156178928
+260,18/06/2025,Eulis Cucu,Buket bunga ,1,Cash,45.000,45.000,08190306086
+261,18/06/2025,Imas Masitoh,Buket bunga,1,Cash,55.000,55.000,08176324808
+262,18/06/2025,Kokom Komalasari,Buket bunga,1,Cash,35.000,35.000,08936962171
+263,19/06/2025,Dewi Sartika,Buket wisuda,1,Cash,35.000,35.000,08544164799
+264,19/06/2025,Dadan Ramdani,Buket wisuda,1,Cash,60.000,60.000,08265628988
+265,19/06/2025,Maman Suherman,Buket snack,1,Cash,35.000,35.000,08741642852
+266,19/06/2025,Maman Rukmana,Bunga kawat tangkai,1,Cash,15.000,15.000,08836607805
+267,19/06/2025,Encep Sutisna,Bunga kawat tangkai,1,Cash,10.000,10.000,08621983069
+268,20/06/2025,Ujang Surahman,Buket bunga,1,Cash,35.000,35.000,08740400410
+269,20/06/2025,Gugun Gunawan,Buket bunga,1,Cash,75.000,75.000,08439210631
+270,20/06/2025,Asep Sunandar,Buket bunga + kertas uang,1,Cash,40.000,40.000,08162358589
+271,20/06/2025,Tatang Sutarman,Buket wisuda,2,Cash,50.000,100.000,08615989435
+272,20/06/2025,Asep Hidayat,Buket wisuda,1,Cash,60.000,60.000,08370789053
+273,20/06/2025,Cecep Mulyana,Buket bunga,1,Cash,35.000,35.000,08604970423
+274,20/06/2025,Dedi Mulyadi,Buket bunga,1,Cash,65.000,65.000,08569815646
+275,20/06/2025,Yayah Rohayati,Buket bunga,1,Cash,100.000,100.000,08362308581
+276,20/06/2025,Iis Dahlia,Parsel Makanan,1,Cash,65.000,65.000,08391824077
+277,20/06/2025,Nana Rohana,Buket wisuda,1,Cash,35.000,35.000,08493310391
+278,20/06/2025,Eulis Mulyati,Buket wisuda,1,Cash,60.000,60.000,08476468021
+279,20/06/2025,Nana Rohana,Buket wisuda,1,Cash,35.000,35.000,08318161451
+280,20/06/2025,Neng Siti,Pelunasan custom buket,1,Transfer,50.000,50.000,08773001104
+281,20/06/2025,Yudi Wahyudi,Buket bunga,1,Cash,35.000,35.000,08985769087
+282,20/06/2025,Kokom Komariah,Buket wisuda,1,Transfer,35.000,35.000,08528185214
+283,20/06/2025,Deden Heryanto,Buket uang,1,Cash,50.000,50.000,08282907663
+284,20/06/2025,Yayah Rohayati,Buket uang,1,Transfer,85.000,85.000,08265339547
+285,20/06/2025,Neng Imas,Buket wisuda,1,Cash,50.000,50.000,08117611318
+286,20/06/2025,Titin Supriatin,Buket bunga,1,Cash,45.000,45.000,08792428431
+287,20/06/2025,Iis Dahlia,Buket bunga,1,Cash,50.000,50.000,08725217634
+288,21/06/2025,Nyi Mariam,Buket bunga,1,Cash,65.000,65.000,08983693257
+289,21/06/2025,Dadan Kusnandar,Buket snack,1,Cash,35.000,35.000,08654284954
+290,21/06/2025,Tatang Koswara,Bunga kawat tangkai,2,Cash,15.000,30.000,08684531922
+291,21/06/2025,Tatang Sutarman,Buket uang,1,Cash,35.000,35.000,08441011060
+292,21/06/2025,Gugun Hendrayana,Buket uang,2,Cash,35.000,70.000,08381495066
+293,21/06/2025,Cecep Hamdani,Buket wisuda,1,Cash,65.000,65.000,08204553938
+294,21/06/2025,Tati Suryati,Buket bunga,1,Cash,55.000,55.000,08835845735
+295,21/06/2025,Iwan Setiawan,Pelunasan custom buket,1,Cash,40.000,40.000,08573146198
+296,22/06/2025,Ujang Surahman,Buket bunga,1,Cash,35.000,35.000,08191620117
+297,22/06/2025,Agus Hidayat,Buket wisuda,1,Cash,60.000,60.000,08740012545
+298,22/06/2025,Lilis Suryani,Buket wisuda,1,Cash,60.000,60.000,08868099059
+299,22/06/2025,Yayah Rokayah,DP Custom buket ,1,Transfer,50.000,50.000,08408317288
+300,22/06/2025,Lilis Suryani,DP Custom buket ,1,Transfer,50.000,50.000,08426681542
+301,22/06/2025,Yudi Yustiana,Buket wisuda,1,Cash,65.000,65.000,08401721456
+302,22/06/2025,Iis Aisyah,DP Custom buket ,1,Cash,30.000,30.000,08947033843
+303,22/06/2025,Lilis Sugiarti,Buket wisuda,1,Cash,65.000,65.000,08229214823
+304,22/06/2025,Encep Wahyudin,Buket wisuda,1,Cash,65.000,65.000,08954825911
+305,22/06/2025,Yayah Rokayah,Pelunasan custom buket,1,Transfer,125.000,125.000,08513865792
+306,22/06/2025,Cecep Hamdani,Buket wisuda,1,Cash,75.000,75.000,08350174847
+307,22/06/2025,Dedi Kusdinar,Pelunasan custom buket,1,Cash,45.000,45.000,08140726080
+308,22/06/2025,Agus Rahmat,Buket bunga,1,Cash,80.000,80.000,08992974915
+309,22/06/2025,Encep Sutisna,Buket wisuda,1,Cash,60.000,60.000,08291621268
+310,23/06/2025,Nyi Mariam,Buket wisuda,1,Cash,40.000,40.000,08698544149
+311,23/06/2025,Asep Sunandar,Bunga kawat tangkai,1,Cash,15.000,15.000,08207801081
+312,23/06/2025,Wawan Setiawan,Bunga kawat tangkai,1,Cash,15.000,15.000,08388463615
+313,23/06/2025,Agus Rahmat,Buket wisuda,1,Cash,35.000,35.000,08225823815
+314,23/06/2025,Agus Permana,Buket bunga,1,Cash,35.000,35.000,08170194201
+315,23/06/2025,Nana Suryana,Buket bunga,1,Cash,55.000,55.000,08739581916
+316,23/06/2025,Aceng Solihin,Buket bunga,1,Cash,55.000,55.000,08992154467
+317,23/06/2025,Nyi Mariam,Buket wisuda,1,Cash,65.000,65.000,08850574003
+318,23/06/2025,Asep Sunandar,Buket wisuda,1,Cash,65.000,65.000,08634624740
+319,23/06/2025,Lilis Karlina,Buket uang,1,Cash,50.000,50.000,08929490507
+320,23/06/2025,Dedi Mulyadi,Buket wisuda,1,Cash,65.000,65.000,08661360224
+321,23/06/2025,Tati Suryati,Buket wisuda,1,Cash,160.000,160.000,08651567230
+322,23/06/2025,Wawan Hermawan,Buket wisuda,1,Cash,35.000,35.000,08921465894
+323,23/06/2025,Tatang Koswara,Buket wisuda,1,Cash,72.000,72.000,08214193296
+324,23/06/2025,Yayan Mulyana,Buket wisuda,1,Transfer,72.000,72.000,08669287841
+325,23/06/2025,Kokom Komalasari,Buket wisuda,1,Cash,60.000,60.000,08452725957
+326,24/06/2025,Rina Wati,Buket bunga,1,Cash,35.000,35.000,08864250391
+327,24/06/2025,Dewi Sartika,Buket bunga,1,Cash,35.000,35.000,08745708256
+328,24/06/2025,Tati Sumiati,Bunga kawat tangkai,2,Cash,15.000,30.000,08639219116
+329,24/06/2025,Dadang Hidayat,Buket wisuda,1,Cash,65.000,65.000,08926620566
+330,24/06/2025,Aceng Jaelani,Bunga kawat tangkai,1,Cash,15.000,15.000,08640665273
+331,24/06/2025,Titin Fatimah,Buket snack,1,Cash,35.000,35.000,08280393003
+332,24/06/2025,Hendra Gunawan,Buket wisuda,1,Cash,65.000,65.000,08966273291
+333,24/06/2025,Agus Hidayat,Paperbag ,1,Cash,11.000,11.000,08610200346
+334,24/06/2025,Agus Permana,DP Custom buket ,1,Transfer,30.000,30.000,08364363513
+335,24/06/2025,Asep Hidayat,Buket bunga,1,Cash,50.000,50.000,08276149695
+336,24/06/2025,Yudi Herdiana,Buket bunga,1,Cash,65.000,65.000,08937349882
+337,24/06/2025,Yayah Mulyanah,Paperbag ,1,Cash,11.000,11.000,08971516378
+338,24/06/2025,Cecep Karmana,Plastik uang,1,Cash,15.000,15.000,08370233794
+339,24/06/2025,Tati Suryati,Buket uang,2,Cash,50.000,100.000,08854905582
+340,24/06/2025,Gugun Gumilar,Buket bunga,1,Cash,55.000,55.000,08110729866
+341,24/06/2025,Encep Sutisna,Buket wisuda,1,Cash,60.000,60.000,08865403242
+342,24/06/2025,Imas Kurniasih,Buket snack,1,Cash,35.000,35.000,08174967091
+343,24/06/2025,Tati Hartati,Paperbag ,1,Cash,5.000,5.000,08631275837
+344,24/06/2025,Dewi Lestari,Pelunasan custom buket,1,Transfer,45.000,45.000,08870816437
+345,24/06/2025,Wawan Setiawan,Pelunasan custom buket,1,Cash,25.000,25.000,08636496709
+346,24/06/2025,Kokom Maryati,Buket bunga,1,Cash,65.000,65.000,08887825447
+347,24/06/2025,Iis Rohimah,Pelunasan custom buket,1,Cash,110.000,110.000,08530287053
+348,24/06/2025,Nyi Mariam,Bunga kawat tangkai,3,Cash,10.000,30.000,08230626077
+349,24/06/2025,Rina Herlina,Buket bunga,1,Cash,55.000,55.000,08276499505
+350,24/06/2025,Kokom Komalasari,Buket bunga,1,Cash,50.000,50.000,08392709982
+351,24/06/2025,Encep Sutisna,Buket wisuda,1,Cash,65.000,65.000,08417139002
+352,24/06/2025,Cucu Hasanudin,Pelunasan custom buket,1,Transfer,25.000,25.000,08214894045
+353,24/06/2025,Cecep Supriadi,Buket wisuda,1,Transfer,70.000,70.000,08519267619
+354,24/06/2025,Maman Suherman,Bunga kawat tangkai,1,Cash,15.000,15.000,08421941039
+355,24/06/2025,Dewi Lestari,Parsel Makanan,1,Cash,70.000,70.000,08840202915
+356,25/06/2025,Titin Fatimah,Buket wisuda,1,Cash,60.000,60.000,08120037827
+357,25/06/2025,Cecep Mulyana,Buket bunga,1,Cash,70.000,70.000,08662074670
+358,25/06/2025,Jajang Nurjaman,Buket wisuda,1,Cash,65.000,65.000,08894605264
+359,25/06/2025,Ujang Kurniawan,Buket bunga,1,Cash,75.000,75.000,08244804430
+360,25/06/2025,Jajang Mulyana,Paperbag ,2,Cash,5.000,10.000,08913725612
+361,25/06/2025,Wawan Setiawan,Buket snack,1,Transfer,35.000,35.000,08634322126
+362,25/06/2025,Rina Wati,Buket uang,1,Transfer,50.000,50.000,08697890730
+363,25/06/2025,Eulis Mulyati,Buket wisuda,1,Cash,65.000,65.000,08649809832
+364,25/06/2025,Dadan Ramdani,Buket wisuda,1,Cash,35.000,35.000,08906425916
+365,25/06/2025,Jajang Nurjaman,Buket uang,1,Cash,35.000,35.000,08695998081
+366,25/06/2025,Nyi Mariam,Buket uang,4,Cash,35.000,140.000,08648522251
+367,25/06/2025,Yayan Mulyana,Buket wisuda,1,Cash,35.000,35.000,08291633572
+368,25/06/2025,Dadang Subagja,Buket snack,1,Cash,35.000,35.000,08500068290
+369,25/06/2025,Ujang Kurniawan,Pelunasan custom buket,1,Cash,30.000,30.000,08537347624
+370,25/06/2025,Asep Saepudin,Buket bunga,1,Cash,70.000,70.000,08983225851
+371,25/06/2025,Nana Suryana,Jepit jedai,3,Cash,3.000,9.000,08531006766
+372,25/06/2025,Aceng Solihin,Buket uang,1,Cash,35.000,35.000,08294824163
+373,25/06/2025,Gugun Gumilar,Buket wisuda,1,Cash,60.000,60.000,08768503226
+374,25/06/2025,Ujang Surahman,Buket bunga,1,Cash,75.000,75.000,08592092848
+375,25/06/2025,Nana Mulyana,Bunga kawat tangkai,2,Cash,15.000,30.000,08986694350
+376,25/06/2025,Deden Heryanto,Buket uang,1,Cash,50.000,50.000,08714020577
+377,25/06/2025,Lilis Sugiarti,Custom buket uang,1,Transfer,400.000,400.000,08233232959
+378,25/06/2025,Titin Suhartini,Buket snack,2,Transfer,45.000,90.000,08526779864
+379,25/06/2025,Asep Saepudin,Bloom box,1,Transfer,50.000,50.000,08307321093
+380,25/06/2025,Yayah Mulyanah,DP Custom buket ,1,Transfer,15.000,15.000,08789328396
+381,26/06/2025,Iwan Gunawan,Buket bunga,1,Cash,55.000,55.000,08954500644
+382,26/06/2025,Dedi Heryadi,Bunga kawat tangkai,1,Cash,10.000,10.000,08886672902
+383,26/06/2025,Ujang Surahman,Bunga kawat tangkai,2,Cash,15.000,30.000,08917564535
+384,26/06/2025,Cecep Mulyana,Paperbag ,1,Cash,11.000,11.000,08133620930
+385,26/06/2025,Ujang Solihin,Bunga kawat tangkai,4,Cash,15.000,60.000,08521191055
+386,26/06/2025,Yayah Mulyanah,Buket bunga,1,Cash,75.000,75.000,08310460083
+387,26/06/2025,Deden Rukmana,Buket bunga,1,Cash,35.000,35.000,08178195329
+388,26/06/2025,Tatang Koswara,Buket wisuda,1,Cash,60.000,60.000,08817277164
+389,26/06/2025,Asep Sunandar,Pelunasan custom buket,1,Cash,20.000,20.000,08755139185
+390,27/06/2025,Deden Heryanto,Buket uang,1,Transfer,85.000,85.000,08677998885
+391,27/06/2025,Cecep Karmana,Buket cokelat,1,Transfer,110.000,110.000,08680793321
+392,27/06/2025,Yayah Mulyanah,Buket bunga,1,Transfer,55.000,55.000,08155208275
+393,27/06/2025,Wawan Gunawan,Buket bunga,1,Transfer,175.000,175.000,08755512655
+394,30/06/2025,Tati Hartati,Buket bunga,1,Transfer,35.000,35.000,08657929882
+395,30/06/2025,Aceng Solihin,Pelunasan custom buket,1,Transfer,35.000,35.000,08757440150
+396,01/07/2025,Aceng Fikri,Buket bunga + cokelat,1,Cash,95.000,95.000,08906514724
+397,09/07/2025,Encep Wahyudin,Buket bunga,1,Cash,35.000,35.000,08503631068
+398,09/07/2025,Ujang Kurniawan,DP Custom buket bunga,1,Cash,100.000,100.000,08620181067
+399,11/07/2025,Wawan Gunawan,Buket boneka,1,Cash,65.000,65.000,08923287093
+400,12/07/2025,Cecep Hamdani,Buket bunga,1,Transfer,35.000,35.000,08786435082
+401,12/07/2025,Rini Nuraeni,Buket bunga,1,Transfer,55.000,55.000,08325466793
+402,12/07/2025,Hendra Gunawan,Custom buket,1,Cash,85.000,85.000,08469322540
+403,12/07/2025,Aceng Jaelani,Buket bunga,1,Cash,35.000,35.000,08285619246
+404,12/07/2025,Nana Suryana,Pelunasan custom buket,1,Cash,100.000,100.000,08591126907
+405,16/07/2025,Imas Masitoh,Bunga kawat tangkai,1,Cash,15.000,15.000,08951356600
+406,16/07/2025,Iis Dahlia,Buket cokelat,1,Cash,35.000,35.000,08544673201
+407,16/07/2025,Gugun Hendrayana,Buket bunga,1,Cash,75.000,75.000,08146884928
+408,18/07/2025,Encep Saepul,Buket bunga,1,Cash,45.000,45.000,08739823658
+409,18/07/2025,Eulis Ratna,Buket bunga,1,Cash,50.000,50.000,08482863557
+410,19/07/2025,Tatang Koswara,Buket uang,1,Cash,50.000,50.000,08476127280
+411,23/07/2025,Lilis Sugiarti,Buket bunga,1,Cash,35.000,35.000,08101131811
+412,23/07/2025,Gugun Hendrayana,Buket bunga,1,Cash,35.000,35.000,08646040520
+413,25/07/2025,Jajang Nurjaman,Buket bunga,2,Cash,60.000,120.000,08475264092
+414,29/07/2025,Rina Herlina,Buket cokelat,2,Cash,35.000,70.000,08180859925
+415,30/07/2025,Neng Fitri,Buket bunga,1,Cash,35.000,35.000,08773389229
+416,31/07/2025,Lilis Suryani,Pelunasan custom buket,1,Cash,30.000,30.000,08339756315
+417,01/08/2025,Aceng Setiawan,Buket bunga ,1,Cash,75.000,75.000,08670794945
+418,01/08/2025,Dadan Suhendar,Bunga kawat tangkai,1,Cash,15.000,15.000,08535387883
+419,01/08/2025,Yayan Ruhiyat,Buket bunga ,1,Cash,65.000,65.000,08879757975
+420,03/08/2025,Encep Saepul,Buket bunga ,1,Cash,80.000,80.000,08275876873
+421,05/08/2025,Iis Dahlia,Buket uang,1,Cash,50.000,50.000,08372580327
+422,05/08/2025,Deden Heryanto,Bunga kawat tangkai,1,Cash,15.000,15.000,08259901910
+423,06/08/2025,Yayah Mulyanah,Buket boneka,1,Cash,55.000,55.000,08692317598
+424,07/08/2025,Yayan Suryana,Buket boneka,1,QRIS,65.000,65.000,08580789998
+425,08/08/2025,Asep Hidayat,Buket bunga ,1,Cash,55.000,55.000,08832069148
+426,09/08/2025,Dewi Lestari,Buket bunga ,1,Cash,75.000,75.000,08107354842
+427,11/08/2025,Imas Kurniasih,Pelunasan custom buket,1,Cash,45.000,45.000,08277433142
+428,12/08/2025,Yudi Wahyudi,Buket bunga,1,Transfer,50.000,50.000,08708450158
+429,12/08/2025,Asep Hidayat,Buket bunga,1,Transfer,55.000,55.000,08133847820
+430,12/08/2025,Asep Saepudin,Buket bunga,1,QRIS,75.000,75.000,08658479983
+431,12/08/2025,Encep Mulyana,Buket boneka,1,QRIS,55.000,55.000,08838641021
+432,12/08/2025,Maman Abdurrahman,Buket boneka,1,QRIS,55.000,55.000,08900185946
+433,12/08/2025,Dadang Subagja,Pelunasan custom buket,1,Cash,20.000,20.000,08700854291
+434,13/08/2025,Nana Mulyana,Buket bunga,1,Cash,75.000,75.000,08485731335
+435,13/08/2025,Dadan Ramdani,Baju Rajut,1,QRIS,65.000,65.000,08136016721
+436,18/08/2025,Gugun Hendrayana,DP Custom buket bunga,1,Cash,20.000,20.000,08768301113
+437,19/08/2025,Rina Marlina,Pelunasan custom buket,1,Cash,55.000,55.000,08810303741
+438,20/08/2025,Dewi Lestari,Buket snack,1,Cash,35.000,35.000,08564078334
+439,22/08/2025,Jajang Mulyana,Buket bunga,1,Cash,35.000,35.000,08172774361
+440,22/08/2025,Kokom Maryati,Paperbag,1,Cash,5.000,5.000,08252545111
+441,23/08/2025,Jajang Nurjaman,Parsel makanan,1,Cash,115.000,115.000,08806046851
+442,23/08/2025,Encep Sutisna,Buket uang,1,Cash,35.000,35.000,08374654058
+443,31/08/2025,Tatang Koswara,Pelunasan custom buket,1,Transfer,135.000,135.000,08136820740
+444,01/09/2025,Yayah Rohayati,Buket boneka,1,Cash,55.000,55.000,08830656816
+445,02/09/2025,Maman Rukmana,DP Custom buket skipsi,1,Cash,50.000,50.000,08616616753
+446,02/09/2025,Nyi Mariam,DP Custom buket ,1,Transfer,50.000,50.000,08468447832
+447,02/09/2025,Iwan Gunawan,Buket uang,1,Cash,50.000,50.000,08960084664
+448,02/09/2025,Dadang Subagja,Buket bunga,1,Cash,75.000,75.000,08899439944
+449,02/09/2025,Kokom Komariah,DP Custom buket ,1,Cash,20.000,20.000,08239880575
+450,03/09/2025,Yayah Mulyanah,Pelunasan custom buket,1,Cash,65.000,65.000,08931548936
+451,03/09/2025,Tatang Hidayat,Buket snack,1,Cash,35.000,35.000,08911664185
+452,04/09/2025,Ujang Kurniawan,DP Custom buket ,1,Transfer,50.000,50.000,08281207048
+453,04/09/2025,Dedi Mulyadi,Pelunasan custom buket,1,Cash,25.000,25.000,08434997053
+454,04/09/2025,Iis Aisyah,Pelunasan custom buket,1,Cash,25.000,25.000,08620889725
+455,04/09/2025,Maman Rukmana,Buket bunga,1,Cash,85.000,85.000,08672182949
+456,06/09/2025,Maman Rukmana,Buket uang,1,Cash,50.000,50.000,08151933014
+457,06/09/2025,Nana Mulyana,Paperbag,1,Cash,13.000,13.000,08870291586
+458,07/09/2025,Encep Saepul,Buket boneka,1,Cash,65.000,65.000,08620003155
+459,07/09/2025,Kokom Komalasari,Buket bunga,1,Cash,55.000,55.000,08246218650
+460,08/09/2025,Imas Kurniasih,Buket rokok + cokelat,1,Cash,80.000,80.000,08832088019
+461,08/09/2025,Deden Rukmana,DP Custom buket ,1,Transfer,100.000,100.000,08211695329
+462,08/09/2025,Titin Suhartini,Buket uang,1,Cash,50.000,50.000,08698000678
+463,09/09/2025,Deden Rukmana,Bunga kawat tangkai,1,Cash,15.000,15.000,08157265011
+464,09/09/2025,Tatang Sutarman,Buket bunga,1,Cash,35.000,35.000,08528873471
+465,11/09/2025,Rina Wati,Buket bunga,1,Cash,155.000,155.000,08900555145
+466,12/09/2025,Agus Hidayat,Pelunasan custom buket,1,Cash,125.000,125.000,08941793294
+467,12/09/2025,Kokom Maryati,Buket bunga,1,Transfer,50.000,50.000,08435410711
+468,14/09/2025,Imas Kurniasih,Pelunasan custom buket,1,Cash,5.000,5.000,08369463923
+469,15/09/2025,Dadan Suhendar,Buket bunga,1,Cash,55.000,55.000,08761906282
+470,15/09/2025,Iwan Gunawan,DP Custom buket ,1,Cash,30.000,30.000,08271519509
+471,15/09/2025,Encep Mulyana,Buket snack,1,Cash,35.000,35.000,08351766884
+472,15/09/2025,Jajang Mulyana,Buket boneka,1,Cash,35.000,35.000,08618861321
+473,15/09/2025,Encep Wahyudin,Paperbag,2,Cash,5.000,10.000,08504709822
+474,16/09/2025,Neng Imas,Buket bunga,1,Cash,60.000,60.000,08242210814
+475,16/09/2025,Iwan Gunawan,Buket snack,1,Transfer,35.000,35.000,08975646978
+476,16/09/2025,Rini Nuraeni,Bunga kawat tangkai,1,Cash,15.000,15.000,08933097021
+477,19/09/2025,Aceng Solihin,Paperbag,1,Cash,5.000,5.000,08524092279
+478,19/09/2025,Eulis Salma,Buket bunga,1,Cash,70.000,70.000,08780916383
+479,22/09/2025,Titin Fatimah,Custom buket ,1,Cash,35.000,35.000,08530600810
+480,24/09/2025,Dadang Sunarya,Buket bunga,1,Cash,75.000,75.000,08258771038
+481,24/09/2025,Yudi Wahyudi,Bunga kawat tangkai,1,Cash,15.000,15.000,08192284535
+482,27/09/2025,Deden Heryanto,Buket bunga,1,Cash,75.000,75.000,08707825201
+483,29/09/2025,Dewi Yanti,Buket uang,1,Cash,65.000,65.000,08503627175
+484,29/09/2025,Aceng Fikri,Buket bunga,1,Cash,75.000,75.000,08653296914
+485,29/09/2025,Deden Heryanto,Buket bunga,1,Cash,70.000,70.000,08429742826
+486,01/10/2025,Dadang Hidayat,Custom buket ,1,Cash,85.000,85.000,08942365160
+487,03/10/2025,Dedi Heryadi,Buket boneka + kertas uang,1,Cash,70.000,70.000,08518236900
+488,03/10/2025,Maman Rukmana,Paperbag,2,Cash,5.000,10.000,08766724157
+489,03/10/2025,Aceng Fikri,Buket bunag,1,Transfer,85.000,85.000,08680844339
+490,04/10/2025,Yayan Ruhiyat,Bunga kawat tangkai,1,Cash,15.000,15.000,08800825426
+491,04/10/2025,Asep Sunandar,Buket bunga,1,Cash,85.000,85.000,08616511035
+492,06/10/2025,Rina Wati,Pelunasan custom buket,1,QRIS,120.000,120.000,08895639567
+493,15/10/2025,Agus Hidayat,Buket bunga,1,Cash,70.000,70.000,08579585462
+494,15/10/2025,Encep Wahyudin,Buket wisuda,1,Transfer,140.000,140.000,08250739182
+495,16/10/2025,Yayah Rohayati,Paperbag,1,Cash,10.000,10.000,08507896581
+496,16/10/2025,Lilis Suryani,Buket uang,1,Cash,65.000,65.000,08992402309
+497,16/10/2025,Dadan Suhendar,Buket uang,1,Cash,75.000,75.000,08679870369
+498,17/10/2025,Ujang Mulyadi,Paperbag,1,Cash,10.000,10.000,08499080624
+499,20/10/2025,Lilis Suryani,Paperbag,2,Cash,5.000,10.000,08833204538
+500,20/10/2025,Iis Dahlia,Buket uang + snack,2,Cash,50.000,100.000,08688846752
+501,20/10/2025,Wawan Gunawan,Buket wisuda,1,Cash,70.000,70.000,08542263648
+502,20/10/2025,Yayah Rohayati,Buket bunga,1,Cash,75.000,75.000,08256271730
+503,24/10/2025,Tatang Koswara,Buket uang,1,Transfer,85.000,85.000,08461123110
+504,31/10/2025,Iis Dahlia,Buket uang,1,Cash,100.000,100.000,08972590795
+505,02/11/2025,Kokom Maryati,DP Custom buket ,1,Transfer,100.000,100.000,08914489582
+506,02/11/2025,Dewi Yanti,Buket bunga,1,Cash,70.000,70.000,08136060073
+507,02/11/2025,Nana Suryana,Pelunasan custom buket,1,Cash,80.000,80.000,08281531162
+508,02/11/2025,Encep Saepul,DP Custom buket ,1,Transfer,50.000,50.000,08236216474
+509,03/11/2025,Titin Supriatin,Buket wisuda,1,Transfer,100.000,100.000,08916497386
+510,03/11/2025,Asep Hidayat,Buket snack,1,Cash,35.000,35.000,08722521009
+511,04/11/2025,Titin Supriatin,Pelunasan custom buket,1,Cash,15.000,15.000,08384994987
+512,04/11/2025,Iwan Ridwan,Pelunasan custom buket,1,Transfer,25.000,25.000,08904843493
+513,04/11/2025,Imas Kurniasih,Custom buket ,1,QRIS,425.000,425.000,08442570127
+514,10/11/2025,Tatang Hidayat,Buket bunga,1,Cash,60.000,60.000,08859753595
+515,13/11/2025,Ujang Kurniawan,Buket bunga,1,Cash,35.000,35.000,08321053872
+516,17/11/2025,Ujang Surahman,Buket bunga,1,QRIS,70.000,70.000,08435995105
+517,17/11/2025,Yayah Rohayati,Paperbag,1,Cash,5.000,5.000,08422742071
+518,23/11/2025,Ujang Surahman,Buket bunga,1,Cash,80.000,80.000,08597281036
+519,23/11/2025,Agus Rahmat,Buket snack,1,Cash,35.000,35.000,08309247801
+520,23/11/2025,Tati Suryati,Buket bunga,1,Transfer,70.000,70.000,08477159870
+521,23/11/2025,Yayan Suryana,Paperbag,1,Cash,3.000,3.000,08343697631
+522,23/11/2025,Dewi Yanti,Jepit jedai,1,Cash,3.000,3.000,08554732963
+523,24/11/2025,Tati Suryati,Buket snack,1,Cash,100.000,100.000,08736313167
+524,24/11/2025,Iis Rohimah,Buket hari guru + snack + pulpen,1,Cash,149.000,149.000,08861081722
+525,24/11/2025,Agus Rahmat,Buket hari guru,1,Cash,35.000,35.000,08115361352
+526,24/11/2025,Encep Sutisna,Bunga kawat tangkai,1,Cash,15.000,15.000,08453078461
+527,24/11/2025,Iis Dahlia,Buket boneka,1,Cash,58.500,58.500,08810570037
+528,24/11/2025,Dedi Kusdinar,Buket bunga,1,Cash,54.000,54.000,08216564368
+529,24/11/2025,Rina Wati,Buket bunga,1,Cash,63.000,63.000,08383548383
+530,24/11/2025,Encep Wahyudin,Buket hari guru,1,Cash,35.000,35.000,08896494454
+531,24/11/2025,Aceng Fikri,DP Custom buket ,1,Transfer,11.000,11.000,08360247215
+532,24/11/2025,Yayan Mulyana,Buket hari guru,2,Cash,35.000,70.000,08673455445
+533,24/11/2025,Rina Herlina,Buket hari guru,1,Cash,35.000,35.000,08431329340
+534,24/11/2025,Cecep Karmana,Buket hari guru,1,Cash,65.000,65.000,08578896383
+535,24/11/2025,Dewi Yanti,Bunga jepit tangkai,2,Cash,15.000,30.000,08656338839
+536,25/11/2025,Wawan Hermawan,Buket snack,1,Cash,35.000,35.000,08444479254
+537,25/11/2025,Deden Supriatna,Buket bunga,1,Cash,35.000,35.000,08582174767
+538,25/11/2025,Gugun Gunawan,Buket snack,1,Cash,67.500,67.500,08932223822
+539,25/11/2025,Cecep Supriadi,Buket hari guru,1,Cash,35.000,35.000,08612559350
+540,25/11/2025,Aceng Fikri,Paperbag,1,Cash,5.000,5.000,08873716220
+541,25/11/2025,Wawan Gunawan,Buket snack,1,Cash,35.000,35.000,08416478240
+542,25/11/2025,Wawan Setiawan,Buket bunga,1,Cash,81.000,81.000,08829765415
+543,25/11/2025,Tati Suryati,Paperbag,1,QRIS,12.000,12.000,08965060734
+544,25/11/2025,Ujang Kurniawan,Tas rajut,1,QRIS,40.000,40.000,08851780985
+545,25/11/2025,Asep Saepudin,Buket bunga,1,Cash,40.000,40.000,08939718720
+546,25/11/2025,Encep Mulyana,Bunga kawat tangkai,3,Cash,15.000,45.000,08507123858
+547,25/11/2025,Yayan Suryana,Paperbag,1,Cash,3.000,3.000,08762798854
+548,25/11/2025,Asep Hidayat,Buket bunga,1,Cash,68.000,68.000,08211129715
+549,25/11/2025,Yayah Rokayah,Paperbag,1,Cash,10.000,10.000,08595306566
+550,25/11/2025,Dewi Sartika,Buket bunga,2,Cash,31.500,63.000,08465862971
+551,25/11/2025,Rina Marlina,Buket hari guru,1,Cash,35.000,35.000,08305783668
+552,25/11/2025,Aceng Jaelani,Buket snack,1,Cash,65.000,65.000,08331431456
+553,26/11/2025,Gugun Hendrayana,Buket bunga,1,Cash,90.000,90.000,08898068806
+554,26/11/2025,Nana Rohana,Buket bunga,1,Cash,85.000,85.000,08180445447
+555,26/11/2025,Neng Fitri,Buket bunga,1,Cash,40.000,40.000,08952920265
+556,26/11/2025,Deden Rukmana,Buket hari guru,1,Cash,35.000,35.000,08704567176
+557,26/11/2025,Asep Saepudin,Custom buket ,1,Cash,85.000,85.000,08375363874
+558,26/11/2025,Kokom Maryati,Paperbag,11,Cash,3.000,33.000,08937761159
+559,26/11/2025,Asep Mulyana,Buket boneka,1,Cash,65.000,65.000,08483745391
+560,27/11/2025,Asep Hidayat,Buket bunga,1,Cash,60.000,60.000,08531573916
+561,27/11/2025,Gugun Hendrayana,Buket bunga,1,Cash,70.000,70.000,08341976373
+562,27/11/2025,Jajang Mulyana,Buket hari guru,1,Cash,35.000,35.000,08700362425
+563,27/11/2025,Ujang Solihin,DP Custom buket ,1,Transfer,50.000,50.000,08439087370
+564,27/11/2025,Iis Rohimah,DP Custom buket ,1,Transfer,40.000,40.000,08249730449
+565,28/11/2025,Ujang Mulyadi,Buket uang,1,Cash,70.000,70.000,08902227486
+566,28/11/2025,Rini Nuraeni,Buket boneka,1,Cash,35.000,35.000,08399463939
+567,28/11/2025,Yayan Mulyana,Buket bunga,1,Cash,50.000,50.000,08684524036
+568,29/11/2025,Dadan Kusnandar,Pelunasan custom buket,1,Cash,14.000,14.000,08616984845
+569,29/11/2025,Nyi Mariam,Jepi jedai,2,Cash,3.000,6.000,08568146873
+570,29/11/2025,Cucu Hasanudin,Paperbag,1,QRIS,3.000,3.000,08831831313
+571,29/11/2025,Cecep Mulyana,Buket bunga,1,Cash,55.000,55.000,08337486927
+572,29/11/2025,Maman Abdurrahman,Baju rajut,1,Cash,65.000,65.000,08413053165
+573,30/11/2025,Eulis Salma,Pelunasan custom buket,1,Cash,45.000,45.000,08206086986
+574,03/12/2025,Wawan Gunawan,Pelunasan custom buket,1,Cash,80.000,80.000,08455874296
+575,04/12/2025,Wawan Setiawan,Pelunasan custom buket,1,Transfer,100.000,100.000,08173956682
+576,04/12/2025,Dewi Lestari,Buket boneka,1,Cash,65.000,65.000,08651772164
+577,04/12/2025,Encep Saepul,Pelunasan custom buket,1,Cash,70.000,70.000,08275821259
+578,05/12/2025,Yayah Rokayah,Buket bunga,2,Cash,50.000,100.000,08656575988
+579,06/12/2025,Dadan Ramdani,Buket uang,1,Cash,100.000,100.000,08583918225
+580,07/12/2025,Cecep Mulyana,Buket boneka,1,Cash,40.000,40.000,08137668559
+581,08/12/2025,Tati Sumiati,Buket uang,1,Transfer,85.000,85.000,08105951808
+582,08/12/2025,Dadang Subagja,Buket snack,1,Cash,35.000,35.000,08876331945
+583,08/12/2025,Aceng Solihin,Buket bunga,1,Cash,80.000,80.000,08276091172
+584,09/12/2025,Encep Wahyudin,Buket uang,1,Cash,50.000,50.000,08641210240
+585,09/12/2025,Yudi Yustiana,DP Custom buket ,1,Transfer,30.000,30.000,08757363883
+586,09/12/2025,Gugun Gumilar,DP Custom buket ,1,Transfer,30.000,30.000,08589338545
+587,09/12/2025,Encep Saepul,Custom buket ,1,Transfer,850.000,850.000,08841923836
+588,10/12/2025,Dedi Mulyadi,Buket bunga,1,QRIS,90.000,90.000,08311834614
+589,10/12/2025,Eulis Mulyati,Buket bunga,1,Cash,130.000,130.000,08462497962
+590,11/12/2025,Jajang Nurjaman,Buket bunga,1,Cash,60.000,60.000,08530862163
+591,12/12/2025,Eulis Cucu,Pelunasan custom buket,1,Cash,100.000,100.000,08176437155
+592,12/12/2025,Eulis Ratna,Buket wisuda,1,Cash,70.000,70.000,08495602724
+593,12/12/2025,Yayah Rohayati,Buket kerudung,1,QRIS,90.000,90.000,08492371840
+594,12/12/2025,Asep Sunandar,Buket bunga,1,Cash,55.000,55.000,08979536388
+595,12/12/2025,Neng Rini,Pelunasan custom buket,1,Cash,70.000,70.000,08919227101
+596,15/12/2025,Dadang Sunarya,Paperbag,2,Cash,5.000,10.000,08275206902
+597,15/12/2025,Yayah Rokayah,Buket snack,1,Cash,70.000,70.000,08695569119
+598,17/12/2025,Tati Suryati,Buket bunga,1,Cash,35.000,35.000,08530776516
+599,17/12/2025,Cecep Supriadi,Buket bunga,1,Cash,50.000,50.000,08222781759
+600,18/12/2025,Iis Rohimah,Buket snack,1,Cash,35.000,35.000,08104063357
+601,19/12/2025,Nana Rohana,Buket boneka,1,Cash,65.000,65.000,08973821731
+602,19/12/2025,Yayah Rokayah,Buket bunga,1,Cash,100.000,100.000,08192466610
+603,19/12/2025,Titin Fatimah,Buket uang,1,Cash,35.000,35.000,08977242474
+604,20/12/2025,Wawan Hermawan,Buket uang,1,Cash,35.000,35.000,08863350240
+605,21/12/2025,Ujang Kurniawan,DP Custom buket ,1,QRIS,20.000,20.000,08807348013
+606,21/12/2025,Eulis Ratna,Custom buket ,1,Transfer,35.000,35.000,08380265945
+607,21/12/2025,Aceng Jaelani,Custom buket ,1,Transfer,95.000,95.000,08520835514
+608,22/12/2025,Wawan Setiawan,Custom buket ,1,Cash,45.000,45.000,08731105756
+609,23/12/2025,Eulis Mulyati,Custom buket ,1,Transfer,75.000,75.000,08819769515
+610,26/12/2025,Neng Fitri,DP Custom buket ,1,Transfer,35.000,35.000,08989198020
+611,26/12/2025,Encep Mulyana,Buket bunga,1,QRIS,50.000,50.000,08243423629
+612,29/12/2025,Dedi Heryadi,Buket uang,1,Cash,50.000,50.000,08915879226
+613,29/12/2025,Tatang Hidayat,Buket bunga,1,Cash,50.000,50.000,08677213496
+614,30/12/2025,Rini Nuraeni,Pelunasan custom buket,1,Cash,45.000,45.000,08670626929
+615,30/12/2025,Neng Fitri,Buket bunga,1,Transfer,50.000,50.000,08846974446
+616,30/12/2025,Wawan Gunawan,Pelunasan custom buket,1,Cash,20.000,20.000,08173932684
